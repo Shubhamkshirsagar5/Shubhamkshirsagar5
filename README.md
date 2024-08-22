@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently enriching my skillset through a Master of Science in Business Analytics at William & Mary<br>🌱I bring a wealth of expertise in data analysis and machine learning.<br>👯Worked as Data Analyst, Subject Matter Expert and Team Lead at Nvidia Graphics.<br>⚡Passionate about making a tangible impact through data.<br>⚡I am committed to applying cutting-edge data-driven solutions to complex real-world challenges. <br>
+🔭 I’m currently enriching my skillset through a Master of Science in Business Analytics at William & Mary<br>🌱I bring a wealth of expertise in data analysis and machine learning.<br>👯Worked as Senior Data Analyst and Data Analyst at NVIDIA.<br>⚡Passionate about making a tangible impact through data.<br>⚡I am committed to applying cutting-edge data-driven solutions to complex real-world challenges. <br>
 
 
 ## 🌐 Socials:
